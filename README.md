@@ -172,7 +172,7 @@ Suggestions, bug reports, and improvements are welcome!
 
 ## 📄 License
 
-This project is available for learning and personal development. Add a `LICENSE` file to specify the terms under which others may use, modify, and distribute your code.
+This project is available for learning and personal development.
 
 ---
 
