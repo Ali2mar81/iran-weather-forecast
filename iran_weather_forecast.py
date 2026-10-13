@@ -1,5 +1,6 @@
 import os
 import sys
+
 import requests
 
 # Iranian cities with stable IDs and coordinates.
@@ -136,8 +137,8 @@ def wait_to_continue():
         msvcrt.getch()
     except ImportError:
         try:
-            import tty
             import termios
+            import tty
 
             print("\nPress any key to return to the city list...")
             file_descriptor = sys.stdin.fileno()
